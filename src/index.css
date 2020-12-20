@@ -4,25 +4,10 @@
 */
 
 
-/* 字体 - Rubik */
+/* 字体 - Avenir */
 @font-face {
-	font-family: 'Rubik';
-	src: url(/assets/font/Rubik-Regular.ttf);
-}
-
-@font-face {
-	font-family: 'RubikL';
-	src: url(/assets/font/Rubik-Light.ttf);
-}
-
-@font-face {
-	font-family: 'RubikB';
-	src: url(/assets/font/Rubik-Bold.ttf);
-}
-
-@font-face {
-	font-family: 'RubikM';
-	src: url(/assets/font/Rubik-Medium.ttf);
+	font-family: 'Avenir';
+	src: url(/assets/font/Avenir-Next.ttc);
 }
 
 html, body, div, span, applet, object, iframe,
@@ -72,7 +57,7 @@ table {
 }
 
 * {
-	font-family: 'Rubik'!important;
+	font-family: 'Avenir'!important;
 }
 
 /* 布局 */
