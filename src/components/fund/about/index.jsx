@@ -28,10 +28,10 @@ class FundAbout extends Component {
               What do we do?
             </div>
             <div className="d2 pc wow fadeInDown">
-              Unimine is the best platform to get started mining cryptocurrency. It is the easiest platform for beginners to easily get into Blockchain.Unimine is the best platform to get started mining cryptocurrency. It is the easiest platform for beginners to easily get into Blockchain.
+              Depor is the best platform to get started mining cryptocurrency. It is the easiest platform for beginners to easily get into Blockchain.Depor is the best platform to get started mining cryptocurrency. It is the easiest platform for beginners to easily get into Blockchain.
             </div>
             <div className="d2 wap wow fadeInDown">
-              Unimine is the best platform to get started mining cryptocurrency. It is the easiest platform for beginners to easily get into Blockchain.Unimine is the best platform to get started mining cryptocurrency. It is the easiest platform for beginners to easily get into Blockchain.
+              Depor is the best platform to get started mining cryptocurrency. It is the easiest platform for beginners to easily get into Blockchain.Depor is the best platform to get started mining cryptocurrency. It is the easiest platform for beginners to easily get into Blockchain.
             </div>
 
             <div className="smart-contract">

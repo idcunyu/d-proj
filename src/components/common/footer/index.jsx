@@ -17,7 +17,7 @@ class CommonFooter extends Component {
       <div className="common-footer-wrap">
         <div className="common-footer">
           <a href="/" className="logo-wrap">
-            <img src="/assets/images/common/logo.png" alt="Unimine" className="logo-pic"/>
+            <img src="/assets/images/common/logo.png" alt="Depor" className="logo-pic"/>
           </a>
           <div className="contact-list">
             <a href="/" className="contact-item"><img src="/assets/images/common/ic_facebook.png" alt="ic_facebook"/></a>
@@ -35,8 +35,8 @@ class CommonFooter extends Component {
           </div>
 
           <div className="copyright">
-            <div className="cr">&copy; 2019 Unimine | All Rights Reserved.</div>
-            <div className="cr">contact@unimine.org</div>
+            <div className="cr">&copy; 2020 Depor | All Rights Reserved.</div>
+            <div className="cr">contact@depor.org</div>
           </div>
         </div>
       </div>

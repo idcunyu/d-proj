@@ -9,7 +9,7 @@ class IndexFeature extends Component {
         {
           pic: '/assets/images/index/feature1.png',
           title: 'Pure-Decentralization',
-          desc: 'All the modules of Unimine are runing on the ethereum network without any centralized services. All the programming are built the smart contract code.'
+          desc: 'All the modules of Depor are runing on the ethereum network without any centralized services. All the programming are built the smart contract code.'
         }, {
           pic: '/assets/images/index/feature2.png',
           title: 'Non-KYC',
@@ -17,7 +17,7 @@ class IndexFeature extends Component {
         }, {
           pic: '/assets/images/index/feature3.png',
           title: 'Open',
-          desc: 'Unimine will open the mining protocol api which are the smart constract code of etherum.'
+          desc: 'Depor will open the mining protocol api which are the smart constract code of etherum.'
         }, {
           pic: '/assets/images/index/feature4.png',
           title: 'Instant',
@@ -46,20 +46,20 @@ class IndexFeature extends Component {
         <div className="index-feature-all">
           <div className="title wow fadeIn">FEATURES</div>
           <div className="d1 pc wow fadeInDown">
-            Unimine is the best platform to<br/>
+            Depor is the best platform to<br/>
             get started mining<br/>
             cryptocurrency.
           </div>
           <div className="d1 wap wow fadeInDown">
-            Unimine is the best platform to get started mining<br/>
+            Depor is the best platform to get started mining<br/>
             cryptocurrency.
           </div>
           <div className="d2 pc wow fadeInDown">
-            Unimine is the best platform to get started mining cryptocurrency. It is the easiest platform for<br/>
+            Depor is the best platform to get started mining cryptocurrency. It is the easiest platform for<br/>
             beginners to easily get into Blockchain.
           </div>
           <div className="d2 wap wow fadeInDown">
-            Unimine is the best platform to get started mining<br/>
+            Depor is the best platform to get started mining<br/>
             cryptocurrency. It is the easiest platform for<br/>
             beginners to easily get into Blockchain.
           </div>

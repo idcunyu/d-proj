@@ -75,7 +75,7 @@ class FundCpt extends Component {
         <div className="fund-cpt-all">
           <div className="title wow fadeIn">FUND</div>
           <div className="d1 wow fadeInDown">
-            Unimine Cryptocurrency sale<br/>
+            Depor Cryptocurrency sale<br/>
             Do Not Miss It!
           </div>
           <div className="d2 pc wow fadeInDown">

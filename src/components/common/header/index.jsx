@@ -29,7 +29,7 @@ class CommonHeader extends Component {
       <div className={`common-header-wrap ${showWapNav ? 'active' : ''}`}>
         <div className="common-header">
           <a href="/" className="logo-wrap">
-            <img src="/assets/images/common/logo.png" alt="Unimine" className="logo-pic"/>
+            <img src="/assets/images/common/logo.png" alt="Depor" className="logo-pic"/>
           </a>
           <div className="pc-nav">
             <a href="/" className="nav-item">UMI TOKEN</a>

@@ -17,7 +17,7 @@ class IndexRound extends Component {
         }, {
           pic: '/assets/images/index/state3.png',
           title: 'Innovation',
-          desc: 'With the technology and developing of market. More new and creative mining pools will be built in this period. Unimine will provide the most popular and high-yield mining pools in a longtime in the future.'
+          desc: 'With the technology and developing of market. More new and creative mining pools will be built in this period. Depor will provide the most popular and high-yield mining pools in a longtime in the future.'
         }
       ]
     }
@@ -34,13 +34,13 @@ class IndexRound extends Component {
         <div className="index-round-all">
           <div className="title wow fadeIn">Rounds</div>
           <div className="d1 wow fadeInDown">
-            The Unimine Period
+            The Depor Period
           </div>
           <div className="d2 pc wow fadeInDown">
-            This is the development goals for Unimine.More functions and services will be<br/> opened at different times.
+            This is the development goals for Depor.More functions and services will be<br/> opened at different times.
           </div>
           <div className="d2 wap wow fadeInDown">
-            This is the development goals for Unimine.More<br/> functions and services will be opened at different<br/> times.
+            This is the development goals for Depor.More<br/> functions and services will be opened at different<br/> times.
           </div>
           <div className="round-list">
             {roundList && roundList.length ? roundList.map((item, index) => {

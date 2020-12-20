@@ -7,7 +7,7 @@ import FundFaq from '@components/fund/faq/index';
 
 class PageFund extends Component {
   componentDidMount() {
-    document.title = 'Unimine - Fund'
+    document.title = 'Depor - Fund'
   }
 
   render() {
